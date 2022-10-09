@@ -1,0 +1,1 @@
+const MysteryMsg = ['I can\'t stop what you began']
