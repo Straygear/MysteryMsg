@@ -1,1 +1,2 @@
-const MysteryMsg = ['I can\'t stop what you began']
+//variable with an array of lyric snippits
+const MysteryMsg = ['I can\'t stop what you began', 'A spectre of my mortal soul', 'Flow like a river', 'I\'m breaking the habit tonight', 'A metamorphosis samurai'];
